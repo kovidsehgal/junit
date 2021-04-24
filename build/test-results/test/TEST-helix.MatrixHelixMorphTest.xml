@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="helix.MatrixHelixMorphTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-04-24T04:12:33" hostname="LAPTOP-F57FP364" time="0.013">
+  <properties/>
+  <testcase name="test1x1" classname="helix.MatrixHelixMorphTest" time="0.007"/>
+  <testcase name="test1x2" classname="helix.MatrixHelixMorphTest" time="0.0"/>
+  <testcase name="test2x1" classname="helix.MatrixHelixMorphTest" time="0.001"/>
+  <testcase name="test2x2" classname="helix.MatrixHelixMorphTest" time="0.0"/>
+  <testcase name="test3x5" classname="helix.MatrixHelixMorphTest" time="0.0"/>
+  <testcase name="test6x4" classname="helix.MatrixHelixMorphTest" time="0.001"/>
+  <testcase name="invalidMatrixTest" classname="helix.MatrixHelixMorphTest" time="0.0"/>
+  <testcase name="nullMatrixTest" classname="helix.MatrixHelixMorphTest" time="0.0"/>
+  <testcase name="matrix3x3" classname="helix.MatrixHelixMorphTest" time="0.0"/>
+  <testcase name="matrix4x5" classname="helix.MatrixHelixMorphTest" time="0.001"/>
+  <testcase name="matrix4x6" classname="helix.MatrixHelixMorphTest" time="0.001"/>
+  <testcase name="matrix5x3" classname="helix.MatrixHelixMorphTest" time="0.0"/>
+  <testcase name="testMatrix0x0" classname="helix.MatrixHelixMorphTest" time="0.0"/>
+  <system-out><![CDATA[1	
+1	5	
+6	
+7	
+1	2	
+4	3	
+1	2	3	4	5	
+12	13	14	15	6	
+11	10	9	8	7	
+1	2	3	4	
+16	17	18	5	
+15	24	19	6	
+14	23	20	7	
+13	22	21	8	
+12	11	10	9	
+1	2	3	
+8	9	4	
+7	6	5	
+25	24	23	22	21	
+12	11	10	9	20	
+13	6	7	8	19	
+14	15	16	17	18	
+1	2	3	4	5	6	
+16	17	18	19	20	7	
+15	24	23	22	21	8	
+14	13	12	11	10	9	
+1	2	3	
+12	13	4	
+11	14	5	
+10	15	6	
+9	8	7	
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
